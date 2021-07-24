@@ -1,6 +1,11 @@
+Commit: 97d3e436147030800be209d1281b2b93af8b6ac6 [97d3e43]
+Parents: ff3d174cf5
+Date: 24 July 2021 19:26:44
+Committer: jebuzjack
+Updated VRCSDK to U2019-VRCSDK3-WORLD-2021.07.23.18.12_Public
+
 Commit: ff3d174cf5be298538790202fb31ae41e5296269 [ff3d174]
 Parents: e20120e7a6
-Author: jebuzjack <jebuzjack@googlemail.com>
 Date: 24 July 2021 18:52:22
 Committer: jebuzjack
 Removed some unused unity scrips causing critical errors in unity 2019.

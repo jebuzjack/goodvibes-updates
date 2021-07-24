@@ -1,0 +1,16 @@
+Commit: ff3d174cf5be298538790202fb31ae41e5296269 [ff3d174]
+Parents: e20120e7a6
+Author: jebuzjack <jebuzjack@googlemail.com>
+Date: 24 July 2021 18:52:22
+Committer: jebuzjack
+Removed some unused unity scrips causing critical errors in unity 2019.
+
+Commit: e20120e7a6e64dc6fbc01e97945740e57e9d3ba5 [e20120e]
+Parents: 7816634959
+Date: 22 July 2021 21:12:28
+Committer: jebuzjack
+- Upgraded to Unity 2019 LTS for 1.8 patch
+- Updated Cyantriggers
+- Merged ko-fi supporter list from 1.7.8 to latest build
+- Removed screen space reflectionss due to having issue on previous builds
+- Updated UDON Toolkit

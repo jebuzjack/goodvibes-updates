@@ -1,3 +1,16 @@
+Commit: 99c3d4cd15ad7178ad4e27296ae4bbc83e9be589 [99c3d4c]
+Parents: b2e4508f33
+Date: 06 August 2021 22:02:57
+Committer: jebuzjack
+- Fixed hole in the mirror area. (Thanks Connorr)
+- Re aligned the Steel support beams in the main room
+- Updated the SDK to Unity 2019 live release
+- Updated UDON Sharp
+- Updated UDON Tool Kit
+- Fixed some mesh issues in the new games room
+- Added light probes to new area
+- Setup UDON Tool kit camera system
+
 Commit: 12f29592e1ca6fd0137d2f14dc12510663a20502 [12f2959]
 Parents: 97d3e43614
 Date: 24 July 2021 19:39:31

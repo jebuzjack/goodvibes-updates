@@ -1,3 +1,13 @@
+Commit: b0d04eacd9d3e3eacf7b8c94722f4fac618dee06 [b0d04ea]
+Parents: 4cd2c208af
+Author: jebuzjack <>
+Date: 21 August 2021 20:55:12
+Committer: jebuzjack
+- Upgraded to Unity 2019.4.29f1
+- Updated SDK
+- Updated Broken Dependencies
+- Removed broken scripts
+
 Commit: 4cd2c208af325b02281cb4773b570f88a7597442 [4cd2c20]
 Parents: 7816634959
 Author: jebuzjack <>

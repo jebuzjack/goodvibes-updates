@@ -1,3 +1,10 @@
+Commit: 4cd2c208af325b02281cb4773b570f88a7597442 [4cd2c20]
+Parents: 7816634959
+Author: jebuzjack <>
+Date: 21 August 2021 20:14:18
+Committer: jebuzjack
+- Proper Setup for upgrade on 1.8 branch
+
 Commit: 99c3d4cd15ad7178ad4e27296ae4bbc83e9be589 [99c3d4c]
 Parents: b2e4508f33
 Date: 06 August 2021 22:02:57
